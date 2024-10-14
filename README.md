@@ -20,9 +20,13 @@ Note 1: If the element doesn't include 9 nodes, fill the remaining columns with 
 Note 2: the order of numbering nodes is like following:
 
 3===6===2
+
 =       =
+
 7   9   5
+
 =       =
+
 4===8===1
 
 3. boundaries.txt
